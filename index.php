@@ -1,8 +1,8 @@
 <?php
 
-require 'PHPMailer/PHPMailer.php';
-require 'PHPMailer/Exception.php';
-require 'PHPMailer/SMTP.php';
+require 'smile/PHPMailer.php';
+require 'smile/Exception.php';
+require 'smile/SMTP.php';
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
