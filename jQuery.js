@@ -10,7 +10,7 @@ loginForm.addEventListener('submit', (e) => {
 
     // Mengirim data ke URL lain menggunakan fetch
 
-    fetch('http://localhost:8000/', {
+    fetch('/', {
 
         method: 'POST',
 
